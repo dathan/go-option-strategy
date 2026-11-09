@@ -1,6 +1,6 @@
 module github.com/dathan/go-project-template
 
-go 1.25.0
+go 1.26.0
 
 require (
 	github.com/charmbracelet/bubbletea v1.3.10
@@ -16,7 +16,7 @@ require (
 	github.com/stretchr/testify v1.11.1
 	github.com/stripe/stripe-go/v72 v72.122.0
 	github.com/tmc/langchaingo v0.1.13
-	golang.org/x/oauth2 v0.36.0
+	golang.org/x/oauth2 v0.38.0
 	gorm.io/driver/postgres v1.6.0
 	gorm.io/gorm v1.31.1
 )
